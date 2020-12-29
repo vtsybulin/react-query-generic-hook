@@ -6,6 +6,7 @@
 
 **This is a work in progress ⚠️**
 
+Check example/ for usage
 Live demo https://vtsybulin.github.io/react-query-generic-hook/
 
 ## Overview
