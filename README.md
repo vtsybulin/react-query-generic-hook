@@ -6,6 +6,8 @@
 
 **This is a work in progress ⚠️**
 
+Live demo https://vtsybulin.github.io/react-query-generic-hook/
+
 ## Overview
 
 The purpose of react-query-generic-hook is to bundle "endpoint" specific queries under one namespace with minimum code required.
