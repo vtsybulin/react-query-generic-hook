@@ -1,6 +1,6 @@
 {
-  "short_name": "react-query-generic",
-  "name": "react-query-generic",
+  "short_name": "react-query-generic-hook",
+  "name": "react-query-generic-hook",
   "icons": [
     {
       "src": "favicon.ico",

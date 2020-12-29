@@ -8,7 +8,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.app {
+  padding: 20px;
+}
+
+.pagination-box {
+  margin-bottom: 20px;
 }

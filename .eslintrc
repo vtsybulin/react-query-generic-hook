@@ -3,9 +3,10 @@
   "extends": [
     "standard",
     "standard-react",
-    "plugin:prettier/recommended",
     "prettier/standard",
-    "prettier/react"
+    "prettier/react",
+    "plugin:react/recommended",
+    "airbnb"
   ],
   "env": {
     "node": true
@@ -28,6 +29,10 @@
     "react/jsx-handler-names": 0,
     "react/jsx-fragments": 0,
     "react/no-unused-prop-types": 0,
-    "import/export": 0
+    "import/export": 0,
+    "semi": ["error", "always"],
+    "import/no-unresolved": 0,
+    "implicit-arrow-linebreak": 0,
+    "quotes": ["error", "single"]
   }
 }
